@@ -28,3 +28,4 @@ Overview of literature sources and how they are funneled into the literature tra
 - 10.15468
 - 10.15470
 - 10.15472
+- 10.71819 (new, GBIF-BR)
