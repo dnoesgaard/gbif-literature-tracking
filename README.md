@@ -15,3 +15,16 @@ Overview of literature sources and how they are funneled into the literature tra
 - base
 - scopus
 - ScienceDirect
+
+# Keywords used for alerts
+
+## Generic
+
+- "gbif"
+- "biodiversity information facility"
+
+## DOI prefixes
+
+- 10.15468
+- 10.15470
+- 10.15472
