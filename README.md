@@ -9,7 +9,7 @@ Overview of literature sources and how they are funneled into the literature tra
 | SpringerNature | RSS |  | `https://link.springer.com/search.rss?query=gbif+OR+%22biodiversity+information+facility%22+OR+%22integrated+publishing+toolkit%22+OR+%22biodiversity+for+development%22+OR+%22biodiversity+information+fund+for+asia%22+OR+10.15468+OR+10.15470+OR+10.15472+OR+10.5886+OR+10.60545+OR+10.60798+OR+10.17031+OR+10.13148+OR+10.18165+OR+10.35000+OR+10.71819&sortOrder=newestFirst` | Active | 2025-02-20 |
 | PLOS | E-mail | https://community.plos.org/account/alerts/search-alerts | ```(everything:"GBIF") OR (everything:"biodiversity information facility") OR (everything:"integrated publishing toolkit") OR (everything:"10.15468") OR (everything:"10.15470") OR (everything:"10.15472") OR (everything:"10.17031") OR (everything:"10.13148") OR (everything:"10.18165") OR (everything:"10.35000") OR (everything:"10.5886") OR (everything:"10.60545") OR (everything:"10.60798") OR (everything:"10.71819")``` | Active | 2025-02-20 |
 | Crossref event data | JSON |  |  | Active |  |
-| Wiley | E-mail |  |  | Active |  |
+| Wiley | E-mail |  | ```gbif OR "biodiversity information facility" OR "integrated publishing toolkit" OR "Biodiversity for Development" OR "Biodiversity Information Fund for Asia" OR "10.15468" OR "10.15470" OR "10.15472" OR "10.17031" OR "10.13148" OR "10.18165" OR "10.35000" OR "10.5886" OR "10.60545" OR "10.60798" OR "10.71819"``` | Active | 2025-02-20 |
 | BioRxiv | E-mail |  |  | Active |  |
 | DataCite event data | JSON |  |  | Active |  |
 | Google Scholar | E-mail |  |  | Active |  |
@@ -20,6 +20,7 @@ Overview of literature sources and how they are funneled into the literature tra
 | OpenAlex | E-mail |  |  | Pending webhook setup |  |
 | eLibrary.ru | E-mail |  |  | not functional |  |
 | CNKI | E-mail |  |  | not functional |  |
+
 # Keywords used for alerts
 
 ## Generic
