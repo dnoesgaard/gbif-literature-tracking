@@ -13,7 +13,7 @@ Overview of literature sources and how they are funneled into the literature tra
 | BioRxiv | E-mail | https://www.biorxiv.org/alerts | (seperate alerts for individual text strings as phrases and a combined alert for DOI prefixes) | Active | 2025-02-20 |
 | DataCite event data | JSON |  |  | Active |  |
 | Google Scholar | E-mail | https://scholar.google.com/scholar_alerts?view_op=list_alerts | (seperate alerts for all strings and DOI prefixes) | Active | 2025-02-20 |
-| Overton | E-mail |  |  | Active |  |
+| Overton | E-mail | https://app.overton.io/ui/settings/saved-searches?view=index | ```"Biodiversity Information Fund for Asia" OR "Biodiversity for Development" OR "integrated publishing toolkit" OR "Biodiversity Information Facility" OR (gbif NOT "Government Bank Insurance Fund") OR "10.15468" OR "10.15470" OR "10.15472" OR "10.17031" OR "10.13148" OR "10.18165" OR "10.35000" OR "10.5886" OR "10.60545" OR "10.60798" OR "10.71819"``` and ```excluding_source=gbif``` | Active | 2025-02-20 |
 | BASE | RSS |  |  | Active |  |
 | Scopus | E-mail |  |  | Active |  |
 | ScienceDirect | E-mail |  |  | Active |  |
