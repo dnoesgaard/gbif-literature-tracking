@@ -33,11 +33,16 @@ Overview of literature sources and how they are funneled into the literature tra
 
 ## DOI prefixes
 
-- 10.15468 (gbif.gbif - GBIF Secretariat)
-- 10.15470 (csic.gbif - GBIF Spain)
-- 10.15472 (gbif.co - SiB Colombia - GBIF Colombia)
-- 10.35000 (gbif.gbif - GBIF Secretariat)
-- 10.5886 (umbc.canadensys - Canadensys)
-- 10.60545 (gbif.ec - GBIF Ecuador)
-- 10.60798 (gbif.icipe - International Centre for Insect Physiology and Ecology)
-- 10.71819 (gbif.br - SiBBr - GBIF Brazil)
+| prefix   | client          | organization                                           |
+|----------|-----------------|--------------------------------------------------------|
+| 10.15468 | gbif.gbif       | GBIF Secretariat                                       |
+| 10.15470 | csic.gbif       | GBIF Spain                                             |
+| 10.15472 | gbif.co         | SiB Colombia - GBIF Colombia                           |
+| 10.17031 | bl.mba          | Marine Biological Association                          |
+| 10.13148 | zbmed.biofresh  | BioFresh                                               |
+| 10.18165 | uam.macs        | University of Alberta Museums                          |
+| 10.35000 | gbif.gbif       | GBIF Secretariat                                       |
+| 10.5886  | umbc.canadensys | Canadensys                                             |
+| 10.60545 | gbif.ec         | GBIF Ecuador                                           |
+| 10.60798 | gbif.icipe      | International Centre for Insect Physiology and Ecology |
+| 10.71819 | gbif.br         | SiBBr - GBIF Brazil                                    |
