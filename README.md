@@ -10,9 +10,9 @@ Overview of literature sources and how they are funneled into the literature tra
 | PLOS | E-mail | https://community.plos.org/account/alerts/search-alerts | ```(everything:"GBIF") OR (everything:"biodiversity information facility") OR (everything:"integrated publishing toolkit") OR (everything:"10.15468") OR (everything:"10.15470") OR (everything:"10.15472") OR (everything:"10.17031") OR (everything:"10.13148") OR (everything:"10.18165") OR (everything:"10.35000") OR (everything:"10.5886") OR (everything:"10.60545") OR (everything:"10.60798") OR (everything:"10.71819")``` | Active | 2025-02-20 |
 | Crossref event data | JSON |  |  | Active |  |
 | Wiley | E-mail | https://onlinelibrary.wiley.com/search/saved | ```gbif OR "biodiversity information facility" OR "integrated publishing toolkit" OR "Biodiversity for Development" OR "Biodiversity Information Fund for Asia" OR "10.15468" OR "10.15470" OR "10.15472" OR "10.17031" OR "10.13148" OR "10.18165" OR "10.35000" OR "10.5886" OR "10.60545" OR "10.60798" OR "10.71819"``` | Active | 2025-02-20 |
-| BioRxiv | E-mail | https://www.biorxiv.org/alerts | seperate alerts set for  - gbif - "biodiversity information facility" (phrase) - "integrated publishing toolkit" (phrase) - "Biodiversity for Development" (phrase) - "Biodiversity Information Fund for Asia" (phrase) - 10.15468 10.15470 10.15472 10.17031 10.13148 10.18165 10.35000 10.5886 10.60545 10.60798 10.71819 (any) | Active | 2025-02-20 |
+| BioRxiv | E-mail | https://www.biorxiv.org/alerts | (seperate alerts for individual text strings as phrases and a combined alert for DOI prefixes) | Active | 2025-02-20 |
 | DataCite event data | JSON |  |  | Active |  |
-| Google Scholar | E-mail |  |  | Active |  |
+| Google Scholar | E-mail | https://scholar.google.com/scholar_alerts?view_op=list_alerts | (seperate alerts for all strings and DOI prefixes) | Active | 2025-02-20 |
 | Overton | E-mail |  |  | Active |  |
 | BASE | RSS |  |  | Active |  |
 | Scopus | E-mail |  |  | Active |  |
