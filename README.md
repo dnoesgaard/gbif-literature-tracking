@@ -16,7 +16,7 @@ Overview of literature sources and how they are funneled into the literature tra
 | Overton | E-mail | https://app.overton.io/ui/settings/saved-searches?view=index | ```"Biodiversity Information Fund for Asia" OR "Biodiversity for Development" OR "integrated publishing toolkit" OR "Biodiversity Information Facility" OR (gbif NOT "Government Bank Insurance Fund") OR "10.15468" OR "10.15470" OR "10.15472" OR "10.17031" OR "10.13148" OR "10.18165" OR "10.35000" OR "10.5886" OR "10.60545" OR "10.60798" OR "10.71819"``` and ```excluding_source=gbif``` | Active | 2025-02-20 |
 | BASE | RSS |  |  | Active |  |
 | Scopus | E-mail | https://www.scopus.com/alert/form/MyAlerts.uri | ```ALL(gbif) OR ALL("biodiversity information facility") OR ALL("integrated publishing toolkit") OR ALL("Biodiversity for Development") OR ALL("Biodiversity Information Fund for Asia") OR ALL({10.15468/}) OR ALL({10.15470/}) OR ALL({10.15472/}) OR ALL({10.17031/}) OR ALL({10.13148/}) OR ALL({10.18165/}) OR ALL({10.35000/}) OR ALL({10.5886/}) OR ALL({10.60545/}) OR ALL({10.60798/}) OR ALL({10.71819/})``` | Active | 2025-02-20 |
-| ScienceDirect | E-mail |  |  | Active |  |
+| ScienceDirect | E-mail | https://www.sciencedirect.com/user/alerts/search | 1. ````gbif OR "biodiversity information facility" OR "integrated publishing toolkit" OR "Biodiversity for Development" OR "Biodiversity Information Fund for Asia"``` 2. ```10.15468 OR 10.15470 OR 10.15472 OR 10.17031 OR 10.13148 OR 10.18165 OR 10.35000 OR 10.5886 OR 10.60545``` 3. ```10.60798 OR 10.71819``` | Active | 2025-02-24 |
 | OpenAlex | E-mail |  |  | Pending webhook setup |  |
 | eLibrary.ru | E-mail |  |  | not functional |  |
 | CNKI | E-mail |  |  | not functional |  |
