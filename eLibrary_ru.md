@@ -6,4 +6,5 @@ Steps to retrieve new hits from eLibrary.ru:
 4) make sure 'in the full text of the publication' is selected
 5) set 'Received' to 'in the last month'
 6) click 'Search'
-7) extract all hyperlinks matching ```/item.asp?id=<id>``` and their corresponding titles
+7) copy all papers to clipboard and paste into https://euangoddard.github.io/clipboard2markdown/
+8) extract lines with titles and urls, edit to two separate columns
