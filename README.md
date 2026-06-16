@@ -46,3 +46,4 @@ Overview of literature sources and how they are funneled into the literature tra
 | 10.60545 | gbif.ec         | GBIF Ecuador                                           |
 | 10.60798 | gbif.icipe      | International Centre for Insect Physiology and Ecology |
 | 10.71819 | gbif.br         | SiBBr - GBIF Brazil                                    |
+| 10.48580 | gbif.col        | Catalogue of Life                                      |
