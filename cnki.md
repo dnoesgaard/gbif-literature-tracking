@@ -4,7 +4,7 @@ Steps to retrieve new hits from CNKI:
 2) click 'Professional search'
 3) in the 'Classification window', paste the below string
 
-```FT='gbif' OR FT='biodiversity information facility"' OR FT='integrated publishing toolkit"' OR FT='Biodiversity for Development"' OR FT='Biodiversity Information Fund for Asia"' OR FT='10.15468' OR FT='10.15470' OR FT='10.15472' OR FT='10.17031' OR FT='10.13148' OR FT='10.18165' OR FT='10.35000' OR FT='10.5886' OR FT='10.60545' OR FT='10.60798' OR FT='10.7181'```
+```FT='gbif' OR FT='biodiversity information facility"' OR FT='integrated publishing toolkit"' OR FT='Biodiversity for Development"' OR FT='Biodiversity Information Fund for Asia"' OR FT='10.15468' OR FT='10.15470' OR FT='10.15472' OR FT='10.17031' OR FT='10.13148' OR FT='10.18165' OR FT='10.35000' OR FT='10.5886' OR FT='10.60545' OR FT='10.60798' OR FT='10.71819' OR FT='10.48580'```
 
 4) set 'Publication Date' period to start with date last searched 
 5) click 'Search'
